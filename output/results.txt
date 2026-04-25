@@ -1,7 +1,8 @@
-http://admin.kravemart.com/api
-http://admin.kravemart.com/login
-http://admin.kravemart.com/graphql
 http://api.kravemart.com/api
 http://api.kravemart.com/login
 http://api.kravemart.com/admin
 http://api.kravemart.com/graphql
+http://admin.kravemart.com/api
+http://admin.kravemart.com/login
+http://admin.kravemart.com/admin
+http://admin.kravemart.com/graphql
