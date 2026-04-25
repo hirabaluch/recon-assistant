@@ -1,0 +1,7 @@
+api
+admin
+dev
+test
+staging
+mail
+blog
